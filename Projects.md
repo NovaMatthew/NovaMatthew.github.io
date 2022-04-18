@@ -1,6 +1,5 @@
 ## Projects
 <br />
-<br />
 Monster Battle Project
 <br />
 An object-oriented multi-class Java program that simulates a battle between two monsters.

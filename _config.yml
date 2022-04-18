@@ -1,5 +1,5 @@
-name: SER120L-Site
-title: My Awesome site 
+name: CSC109-Site
+title: My Awesome site
 plugins:
 - jemoji
 theme: minima
