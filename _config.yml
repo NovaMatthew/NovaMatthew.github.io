@@ -3,3 +3,6 @@ title: null
 plugins:
 - jemoji
 theme: minima
+header_pages:
+  - AboutMe.md
+  - Projects.md
