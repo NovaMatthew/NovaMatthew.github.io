@@ -1,4 +1,4 @@
-Welcome to my Site! Click the links below to explore!
+Welcome to my Site! Click the links below to explore.
 
 [About Me](https://novamatthew.github.io/AboutMatt)
 <br />
