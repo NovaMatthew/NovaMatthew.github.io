@@ -3,5 +3,6 @@ title: My Awesome Site
 plugins:
 - jemoji
 theme: minima
-
+ - aboutMatt.md
+ - Projects.md
 github_username: NovaMatthew
