@@ -1,8 +1,5 @@
 name: SER120L-Site
-title: null
+title: My Awesome site 
 plugins:
 - jemoji
 theme: minima
-header_pages:
-  - AboutMe.md
-  - Projects.md
