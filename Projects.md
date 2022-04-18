@@ -17,7 +17,7 @@ A Java program that utilizes 2D arrays to create a maze game that can be played 
   - Outputs and updates player movement and location.
 <br />
 <br />
-####Coin Collector Game
+#### Coin Collector Game
 <br />
 A JavaScript program that utilizes the p5.play.js library to create a coin collector game.
 - Program features:
