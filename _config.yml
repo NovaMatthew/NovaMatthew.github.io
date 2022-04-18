@@ -2,3 +2,4 @@ name: SER120L-Site
 title: null
 plugins:
 - jemoji
+theme: minima
