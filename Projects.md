@@ -1,7 +1,6 @@
-#Projects
+# Projects
 <br />
 ### Monster Battle Project
-<br />
 An object-oriented multi-class Java program that simulates a battle between two monsters.
   - Program features:
     - Code to read from a text file.
@@ -10,7 +9,6 @@ An object-oriented multi-class Java program that simulates a battle between two 
 <br />
 <br />
 ### 2D Array Maze Game
-<br />
 A Java program that utilizes 2D arrays to create a maze game that can be played with user input.
   - Program features:
     - Program randomly generates player position and win position.
@@ -18,7 +16,6 @@ A Java program that utilizes 2D arrays to create a maze game that can be played 
 <br />
 <br />
 ### Coin Collector Game
-<br />
 A JavaScript program that utilizes the p5.play.js library to create a coin collector game.
   - Program features:
     - Controllable player sprite by mouse movement.
