@@ -18,11 +18,11 @@ About Me
         margin: 0 auto;
       }
       .text-container {
-        background-color: white;
-        padding: 20px;
+        background-color: White;
+        padding: 10px;
         width: 100%;
         margin: 0 auto;
-      text-align: center
+      text-align: center;
       }
     </style>
   </head>
