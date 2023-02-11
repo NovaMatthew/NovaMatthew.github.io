@@ -1,10 +1,8 @@
 # Projects
-<br />
 ### [ZombieLand – Java Game Development](https://a-r-t.github.io/SER225-Project-Website/semesters/fall2022/teams/project-z)
 -	Adhered to the Agile methodology, collaborating with a team of developers and a project manager to plan and complete tasks in sprints using Trello for task management.
 -	Implemented game features, including player movement, enemy AI, item pickups, and split-screen multiplayer mode, with a focus on object-oriented design principles.
 -	Utilized GitHub for version control and project management, regularly branching, committing, and merging code changes.
-
 
 ### [Coin Collector Game](https://editor.p5js.org/GDD140-m_nova/sketches/UIPqnDNoE)
 A JavaScript program that utilizes the p5.play.js library to create a coin collector game.
