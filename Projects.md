@@ -10,6 +10,11 @@ A JavaScript program that utilizes the p5.play.js library to create a coin colle
 -	Designed and created graphics by organizing functions to load images and utilizing an array data structure to populate background graphics.
 - Used the p5.play.js library to add interactivity and enhance the gaming experience for players.
 
+### [Connect Four](https://github.com/NovaMatthew/ConnectFour)
+- This is a console program for a connect four game. This will eventually become the backend for a moblie application verison.
+- Developed a Connect Four game in Kotlin programming language.
+- Implemented various game features such as AI movement, array based game board and game state determination. 
+
 ### [Maze Solver](https://github.com/NovaMatthew/MazeSolver)
 A Java program that utilizes 2D arrays to create a maze game that can be played with user input.
 - A multi-class program that makes use of recursive algorithms to solve a maze for any start and end point inputted by the user. 
