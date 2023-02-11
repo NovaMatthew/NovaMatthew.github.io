@@ -18,7 +18,7 @@ About Me
   <head>
     <style>
       body {
-        background-color: #2F4F4F;
+        background-color: #ADD8E6;
       }
       .img-container {
         border-radius: 50%;
@@ -31,7 +31,7 @@ About Me
       .text-container {
         background-color: #ADD8E6;
         padding: 20px;
-        width: 70%;
+        width: 90%;
         margin: 0 auto;
       }
     </style>
