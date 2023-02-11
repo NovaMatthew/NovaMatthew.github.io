@@ -5,6 +5,9 @@ About Me
 <html>
   <head>
     <style>
+      body {
+        background-color: lightgray;
+      }
       .img-container {
         border-radius: 50%;
         overflow: hidden;
