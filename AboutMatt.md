@@ -21,7 +21,7 @@ About Me
       .text-container 
         border: 1px solid DarkGrey;
         background-color: white;
-        padding: 10px;
+        padding-top: 20px;
         width: 100%;
         margin: 0 auto;
       text-align: center;
