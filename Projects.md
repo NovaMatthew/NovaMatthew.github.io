@@ -1,45 +1,34 @@
-<style>
-  .project-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
+# Projects
+<br />
+### [ZombieLand – Java Game Development](https://a-r-t.github.io/SER225-Project-Website/semesters/fall2022/teams/project-z)
+-	Adhered to the Agile methodology, collaborating with a team of developers and a project manager to plan and complete tasks in sprints using Trello for task management.
+-	Implemented game features, including player movement, enemy AI, item pickups, and split-screen multiplayer mode, with a focus on object-oriented design principles.
+-	Utilized GitHub for version control and project management, regularly branching, committing, and merging code changes.
 
-  .project {
-    width: 300px;
-    height: 300px;
-    margin: 20px;
-    text-align: center;
-    border: 1px solid black;
-    border-radius: 5px;
-  }
+<br />
+<br />
+### [Coin Collector Game](https://editor.p5js.org/GDD140-m_nova/sketches/UIPqnDNoE)
+A JavaScript program that utilizes the p5.play.js library to create a coin collector game.
+-	Implemented game logic to update and determine the appropriate game state, including start, win, lose, and coin total.
+-	Designed and created graphics by organizing functions to load images and utilizing an array data structure to populate background graphics.
+- Used the p5.play.js library to add interactivity and enhance the gaming experience for players.
 
-  .project-image {
-    width: 100%;
-    height: 200px;
-    margin-bottom: 10px;
-  }
+<br />
+<br />
+### [Monster Battle Project](https://github.com/NovaMatthew/MonsterBattleSimulator)
+An object-oriented multi-class Java program that simulates a battle between two monsters.
+  - Program features:
+    - Code to read from a text file.
+    - Functions to organize a larger program.
+    - A blueprint (Monster) class instantiated by other classes.
+ 
+<br />
+<br />
+### [Maze Solver](https://github.com/NovaMatthew/MazeSolver)
+A Java program that utilizes 2D arrays to create a maze game that can be played with user input.
+- A multi-class program that makes use of recursive algorithms to solve a maze for any start and end point inputted by the user. 
+-	Implementation of an interface for constant characters used to construct the maze. 
+-	Java API for reading from a text file.
 
-  .project-title {
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
-</style>
 
-<div class="project-container">
-  <div class="project">
-    <img class="project-image" src="./project-1.png" alt="ZombieLand ![image](https://user-images.githubusercontent.com/98360625/218268135-81d57910-aec0-4b7f-a4cd-ac6c6c9ea504.png)
-">
-    <h3 class="project-title">Project 1</h3>
-    <p>Adhered to the Agile methodology, collaborating with a team of developers and a project manager to plan and complete tasks in sprints using Trello for task management.
-Implemented game features, including player movement, enemy AI, item pickups, and split-screen multiplayer mode, with a focus on object-oriented design principles.
-Utilized GitHub for version control and project management, regularly branching, committing, and merging code changes.
-</p>
-  </div>
-  <div class="project">
-    <img class="project-image" src="./project-2.png" alt="Project 2">
-    <h3 class="project-title">Project 2</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique, enim a maximus congue, sapien dui volutpat dui, id molestie justo ligula vel quam.</p>
-  </div>
-  <!-- Add more projects here -->
-</div>
+
