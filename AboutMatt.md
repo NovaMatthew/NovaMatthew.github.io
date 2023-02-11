@@ -8,15 +8,16 @@ About Me
       .img-container {
         border-radius: 50%;
         overflow: hidden;
-        width: 100px;
-        height: 100px;
+        width: 500px;
+        height: 500px;
         padding-top: 50px;
+        margin: 0 auto;
       }
     </style>
   </head>
   <body>
     <div class="img-container">
-      ![Matt]<img src="./assets/images/MattsHeadShot.jpg" width="100%">
+      <img src="./assets/images/MattsHeadShot.jpg" width="100%">
     </div>
  
 
