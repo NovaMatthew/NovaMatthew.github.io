@@ -10,9 +10,9 @@ About Me
       }
       .img-container {
         border-radius: 50%;
-        overflow: hidden;
-        width: 300px;
-        height: 300px;
+        overflow: overflow;
+        width: 400px;
+        height: 400px;
         padding-top: 50px;
         margin: 0 auto;
       }
