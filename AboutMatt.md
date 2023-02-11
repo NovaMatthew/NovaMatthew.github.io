@@ -1,6 +1,18 @@
 About Me
 
-## Matt Nova
+
+.header {
+  background-color: #2F4F4F;
+  color: #FFFFFF;
+  padding: 20px;
+  text-align: center;
+}
+.header:before {
+  content: "Matt Nova";
+  display: block;
+  font-size: 36px;
+  font-weight: bold;
+}
 
 <html>
   <head>
