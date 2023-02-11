@@ -10,7 +10,7 @@ About Me
       }
       .img-container {
         border-radius: 50%;
-        overflow: overflow;
+        overflow: visable;
         width: 400px;
         height: 400px;
         padding-top: 50px;
