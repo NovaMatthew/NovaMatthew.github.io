@@ -15,6 +15,7 @@ About Me
         width: 390px;
         height: 390px;
         padding-top: 0;
+        padding-bottom:20;
         margin: 0 auto;
       }
       .text-container 
