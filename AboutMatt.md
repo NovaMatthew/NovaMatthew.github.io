@@ -18,9 +18,9 @@ About Me
         margin: 0 auto;
       }
       .text-container 
-        border: 2px DarkGrey;
+        border: 1px Dark Grey;
         background-color: White;
-        padding: 0px;
+        padding: 10px;
         width: 100%;
         margin: 0 auto;
       text-align: center;
