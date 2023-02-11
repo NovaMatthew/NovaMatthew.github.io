@@ -7,7 +7,7 @@ About Me
   <head>
     <style>
       body {
-        background-color: Navy;
+        background-color: light grey;
       }
       .img-container {
         border-radius: 50%;
