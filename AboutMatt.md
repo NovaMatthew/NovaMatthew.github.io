@@ -6,18 +6,18 @@ About Me
   <head>
     <style>
       body {
-        background-color: LightSteelBlue;
+        background-color: #2F4F4F;
       }
       .img-container {
         border-radius: 50%;
         overflow: hidden;
         width: 400px;
         height: 400px;
-        padding-top: 50px;
+        padding-top: 0;
         margin: 0 auto;
       }
       .text-container {
-        background-color: white;
+        background-color: #ADD8E6;
         padding: 20px;
         width: 70%;
         margin: 0 auto;
