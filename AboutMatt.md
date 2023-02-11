@@ -18,8 +18,8 @@ About Me
         margin: 0 auto;
       }
       .text-container 
-        border: 1px Dark Grey;
-        background-color: White;
+        border: 1px solid DarkGrey;
+        background-color: white;
         padding: 10px;
         width: 100%;
         margin: 0 auto;
