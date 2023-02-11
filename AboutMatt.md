@@ -8,8 +8,8 @@ About Me
       .img-container {
         border-radius: 50%;
         overflow: hidden;
-        width: 500px;
-        height: 500px;
+        width: 300px;
+        height: 300px;
         padding-top: 50px;
         margin: 0 auto;
       }
