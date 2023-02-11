@@ -1,34 +1,41 @@
-#projects {
-  padding: 50px;
-  text-align: center;
-}
+<style>
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 
-.project {
-  display: inline-block;
-  width: 30%;
-  margin: 20px;
-  text-align: left;
-}
+  .project {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
 
-.project img {
-  width: 100%;
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
+  .project-image {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+  }
 
-.project h3 {
-  font-size: 22px;
-  margin-bottom: 20px;
-}
+  .project-title {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+</style>
 
-.project p {
-  font-size: 18px;
-  color: gray;
-  margin-bottom: 20px;
-}
-
-.project a {
-  font-size: 18px;
-  color: navy;
-  text-decoration: none;
-}
+<div class="project-container">
+  <div class="project">
+    <img class="project-image" src="./project-1.png" alt="Project 1">
+    <h3 class="project-title">Project 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique, enim a maximus congue, sapien dui volutpat dui, id molestie justo ligula vel quam.</p>
+  </div>
+  <div class="project">
+    <img class="project-image" src="./project-2.png" alt="Project 2">
+    <h3 class="project-title">Project 2</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique, enim a maximus congue, sapien dui volutpat dui, id molestie justo ligula vel quam.</p>
+  </div>
+  <!-- Add more projects here -->
+</div>
