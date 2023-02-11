@@ -3,7 +3,7 @@ About Me
 ## Matt Nova
 <br />
 <body>
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+<div style="display: flex; justify-content: center; align-items: center; height: 500px;">
 <div style="width: 500px; height: 1000px; border-radius: 50%; overflow: hidden;">
 ![Matt]<img src = "./assets/images/MattsHeadShot.jpg" width="100%">
   </div>
