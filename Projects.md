@@ -11,7 +11,7 @@ A JavaScript program that utilizes the p5.play.js library to create a coin colle
 - Used the p5.play.js library to add interactivity and enhance the gaming experience for players.
 
 ### [Connect Four](https://github.com/NovaMatthew/ConnectFour)
-- This is a console program for a connect four game. This will eventually become the backend for a moblie application verison.
+- This is a console program for a connect four game. This will eventually become the backend for a mobile application version.
 - Developed a Connect Four game in Kotlin programming language.
 - Implemented various game features such as AI movement, array based game board and game state determination. 
 
