@@ -7,7 +7,7 @@ About Me
   <head>
     <style>
       body {
-        background-color: #ADD8E6;
+        background-color: Navy;
       }
       .img-container {
         border-radius: 50%;
@@ -18,7 +18,7 @@ About Me
         margin: 0 auto;
       }
       .text-container {
-        background-color: #ADD8E6;
+        background-color: white;
         padding: 20px;
         width: 100%;
         margin: 0 auto;
