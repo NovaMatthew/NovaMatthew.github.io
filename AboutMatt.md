@@ -12,8 +12,8 @@ About Me
       .img-container {
         border-radius: 50%;
         overflow: hidden;
-        width: 400px;
-        height: 400px;
+        width: 390px;
+        height: 390px;
         padding-top: 0;
         margin: 0 auto;
       }
