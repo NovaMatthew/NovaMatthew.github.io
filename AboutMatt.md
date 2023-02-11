@@ -1,18 +1,7 @@
 About Me
 
 
-.header {
-  background-color: #2F4F4F;
-  color: #FFFFFF;
-  padding: 20px;
-  text-align: center;
-}
-.header:before {
-  content: "Matt Nova";
-  display: block;
-  font-size: 36px;
-  font-weight: bold;
-}
+## Matt Nova
 
 <html>
   <head>
@@ -31,7 +20,7 @@ About Me
       .text-container {
         background-color: #ADD8E6;
         padding: 20px;
-        width: 90%;
+        width: 100%;
         margin: 0 auto;
       }
     </style>
