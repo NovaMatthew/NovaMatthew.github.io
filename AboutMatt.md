@@ -17,9 +17,10 @@ About Me
         padding-top: 0;
         margin: 0 auto;
       }
-      .text-container {
+      .text-container 
+        border: 2px DarkGrey;
         background-color: White;
-        padding: 10px;
+        padding: 0px;
         width: 100%;
         margin: 0 auto;
       text-align: center;
